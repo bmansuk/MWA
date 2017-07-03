@@ -1,0 +1,71 @@
+<!--This program is working fine!-->
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Filterable Elements</title>
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" href="themes/newTheme.css" />
+   <link rel="stylesheet" href="themes/jquery.mobile.icons.min.css" />
+   <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+   <link rel="stylesheet" type="text/css" href="css/newStyle.css">
+   <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+   <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+   <script src ="js/primary11.js"></script>
+</head>
+<body>
+ <div data-role="page" id="pageone" data-theme ="d">  
+   <div data-role="header">
+      <h1>Welcome To My Homepage</h1>
+      <div data-role="navbar">
+      	<ul>
+          <li><a href="#pageone" data-icon="grid">Home</a></li>        <!-- Add some links to the navbar-->
+          <li><a href="#pagetwo" data-icon="grid">Contact</a></li>
+        </ul>
+      </div>
+   </div>
+   <div data-role="main" class="ui-content">
+     <h3>Hello World</h3>
+      <p>Welcome to my Home page. Please Feel at home!!</p
+       <div data-role="content">
+         <div class="content-primary">
+           <div class ="lolcatz" data-demo-html="true">
+              <ul data-role="listview" data-filter="true" data-filter-reveal="true">
+                
+              </ul> 
+           </div>
+         </div>
+        </div>
+    <div data-role="footer" class="toof" data-position="fixed">
+      <h2>&copy; Ben Mansuk & sons 2017</h2>
+    </div>
+ </div> 
+
+<div data-role="page" id="pagetwo" data-theme ="d">
+  <div data-role="header">
+    <h1>Welcome To My Homepage</h1>
+    <div data-role="navbar">
+      <ul>
+        <li><a href="#pageone" data-icon="grid">Home</a></li> <!-- Add some links-->
+        <li><a href="#pagetwo" data-icon="grid">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+  <div data-role="main" class="ui-content">
+    <h3>Hello World</h3>
+    <p>Welcome to my Home page. Please Feel at home!!</p>
+    <h4>Contact Us</h4>
+    <form>
+        <label for="essay">Tell us what you think</label>
+        <textarea name="essay" id="essay" placeholder="Tell us what you think about us!" data-mini="true"></textarea>
+        <label for="rate">Rate us out of 10</label>
+        <input type="range" name="rate" id="rate" min="0" max="10" />
+        <input type="submit" name="go" id="go" value="Rate my App!" />
+    </form>
+  </div>
+  <div data-role="footer" class="toof" data-position="fixed">
+    <h2>&copy; Ben Mansuk & sons 2017</h2>
+  </div>
+</div> 
+
+</body>
+</html>
