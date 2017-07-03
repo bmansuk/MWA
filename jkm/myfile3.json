@@ -1,0 +1,51 @@
+
+    {
+
+	        "wildAnimals": [
+                    {
+	                   "id": 1,
+	                    "name": "Antelope",
+	                    "description": "The Antelope is a beautiful animal that enjoys eating and playing. It is a great animal to watch in the game parks. There are many types of antelope species found in Africa, ranging from the giant eland, the largest antelope, to the diminutive royal antelope. There are approximately 72 species of antelope found in the African continent altogether. All antelopes are described as ungulates hoofed animals that are not classified as other members of the family Bovidae."
+	                },
+
+	                {
+                        "id": 2,
+                        "name": "Elephant",
+                        "description": "The Elephant is a giant wild animal. Elephants are actually the largest land animals on Earth. They have long noses called trunks, large floppy ears and wide thick legs. There are two species of elephant. The Asian elephant and the African elephant. They both live on separate continents and have many unique features. "
+	        
+	                },
+
+	                {
+
+	                   "id": 3,
+	                   "name": "Lion",
+	                   "description": "The Lion is considered the king of all the animals in the wild. The lion has been associated with the symbol of strength, power and ferocity. African lions are the most social of all big cats and live together in groups or “prides.” A pride consists of about 15 lions. Male lions defend the pride’s territory while females do most of the hunting. Despite this, the males eat first. The lion was once found throughout Africa, Asia and Europe but now exists only in Africa with one exception. "
+	                },    
+
+	                {
+
+	                   "id": 4,
+	                   "name": "Buffalo",
+	                   "description": " The African buffalo is the only species of wild cattle that can be found in Africa. It is also known as Cape buffalo, forest buffalo and savannah buffalo. African buffalo inhabits sub-Saharan parts of Africa. There are four subspecies of the African buffalo that differ in color, size and type of habitat where they can be found. The African buffalo lives in open woodlands, savannahs, forests, and lowland rainforests. Since the African buffalo depends on water, it requires habitats that receive at least 10 inches of rain per year."
+	                },
+
+	                {
+
+	                   "id": 5,
+	                   "name": "Giraffe",
+	                   "description": "A giraffe is a wild animal with a long neck. Giraffes are the tallest mammals on Earth. Characterized by its long legs, long neck, and distinctive spotted pattern, many people first believed the giraffe was a cross between a leopard and a camel, which is reflected in its scientific name, Giraffa camelopardalis. Their legs alone are taller than many humans, about 6 feet. Giraffes live primarily in savannah areas in the sub-Saharan region of Africa. Their extreme height allows them to eat leaves and shoots located much higher than other animals can reach. In particular, they seek out acacia trees. Their long tongues are helpful in eating because they help pull leaves from the trees. "
+	       
+	                },
+
+	                {
+
+	                   "id": 6,
+	                   "name": "Leopard",
+	                   "description": "Leopards are nocturnal animals, meaning they are active at night. During the day, they rest in thick brush or in trees. Leopards are solitary animals, preferring to live alone. They are very agile and good swimmers. They are able to leap more than 20 feet. Leopards are part of the cat family - Felidae. The scientific name for a leopard is Panthera pardus. They are well known for their cream and gold spotted fur, but some leopards have black fur with dark spots. These black leopards are often mistaken for panthers."
+	       
+	                }                                                   
+
+
+	        ]
+
+    }

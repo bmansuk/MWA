@@ -1,0 +1,31 @@
+
+             {  "animals": [
+                    {
+                        "name": "Antelope",
+                        "details":{
+                                 "picture": "image source",
+                                 "description": "This is a picture of an Antelope."
+                            }
+                    },
+
+                    {
+                        "name": "Antelope",
+                        "details":{
+                                 "picture": "image source",
+                                 "description": "This is a picture of an Antelope."
+                           }
+
+                    },
+
+                    {
+                        "name": "Antelope",
+                        "details":{
+                                 "picture": "image source",
+                                 "description": "This is a picture of an Antelope."
+                            }
+
+                    }
+
+               ]
+            } 
+            

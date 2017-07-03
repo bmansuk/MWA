@@ -1,0 +1,70 @@
+
+body{
+  margin-left: 10px;
+  padding: 10px;
+  font-family: arial,sans-serif;
+  font-size: 20px;
+  
+}
+
+ img{
+      position: absolute;
+      max-width: 100%;
+      max-height: 100%;
+      width: 50%;
+      height: 72%;
+      top: 22%;
+      left: 25%;
+      border-radius: 10px;  /*This gives the image a nice round edge */
+      box-shadow: 0 3px 6px rgba(0,0,0,0.9); 
+     
+    }
+       
+  
+header{
+
+      font-size:30px;
+      margin:0px;
+     }
+  
+      h1{
+        margin-left:15px;
+        padding: 1px;
+
+      }
+
+    h2{
+        margin-left:15px;
+
+      }
+
+    h3{
+        margin-left:20px;
+
+      }
+
+      p{
+        margin-left:15px;
+        padding: 5px;
+
+      }
+
+#pic001{
+        
+        background-color: #f7c8f6; 
+     }
+
+#pic002{
+        
+        background-color: #4fd8a4;
+     }
+
+#pic003{
+        
+        background-color: #f9e750; 
+     }
+      
+#pic004{
+        
+        background-color: #4ecafa; 
+     }

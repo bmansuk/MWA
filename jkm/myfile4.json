@@ -1,0 +1,32 @@
+{
+  "lotcatz":[
+
+           {
+             "id": 1,
+             "name": "Ceiling cat",
+             "url": "http://upload.wikimedia.org/wikipedia/en/9/90/Ceiling_cat_no_text.gif"
+	       },
+
+	       {
+	         "id": 2,
+             "name": "Basement cat",
+             "url": "http://i191.photobucket.com/albums/z37/beamerpi/TeeSting_s_Stuff/basement-cat-eats-souls.jpg"
+
+	       },
+
+	       {
+	       "id": 3,
+             "name": "Monorail cat",
+             "url": "http://i178.photobucket.com/albums/w263/Laudon1965/MonorailCat.jpg"
+
+	       },
+
+	       {
+	       "id": 4,
+             "name": "Laser Kitteh",
+             "url": "http://31.media.tumblr.com/II7NpYhKVobop9l1WLTAmnGMo1_500.jpg"
+
+	       }
+    ]
+
+}
