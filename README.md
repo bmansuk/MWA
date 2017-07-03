@@ -1,2 +1,2 @@
 # MWA
-This is the MWA Workshops Site.
+This is the Mobile and Web Applications (MWA) Course Workshops Site.
